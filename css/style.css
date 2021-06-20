@@ -49,7 +49,7 @@ header, .navbar {
     font-weight: bold;
 }
 
-.navbar-brand:hover {
+.navbar-dark .navbar-brand:hover {
     color: #ff9800;
 }
   
